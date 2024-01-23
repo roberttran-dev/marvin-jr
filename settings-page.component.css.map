@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/pages/settings-page/settings-page.component.scss"],
+  "sourcesContent": [".custom-nav-link.active {\r\n    background-color: #131313;\r\n    color: white; \r\n    transition: border-color 0.3s ease-in-out;\r\n  }\r\n\r\n  .custom-nav-link {\r\n    background-color: #3F3F3F;\r\n    color: black;\r\n    font-weight:500;\r\n    &:not(.active):hover {\r\n      background-color: #4f4f4f;\r\n    }\r\n  }"],
+  "mappings": "AAAA,CAAA,eAAA,CAAA,OACI,iBAAA,QACA,MAAA,KACA,WAAA,aAAA,IAAA,YAGF,CANF,gBAOI,iBAAA,QACA,MAAA,KACA,YAAA,IACA,CAVJ,eAUI,KAAA,CAVJ,OAUI,OACE,iBAAA",
+  "names": []
+}

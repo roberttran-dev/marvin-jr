@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/pages/settings-page/settings-page-shotid/settings-page-shotid.component.scss"],
+  "sourcesContent": ["label.primaryLabel {\r\n    color: #C5A664;\r\n}\r\n\r\n"],
+  "mappings": "AAAA,KAAA,CAAA,aACI,MAAA",
+  "names": []
+}
