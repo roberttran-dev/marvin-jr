@@ -1,7 +1,7 @@
 {
   "version": 3,
-  "sources": [],
-  "sourcesContent": [],
-  "mappings": "",
+  "sources": ["src/app/pages/settings-page/settings-page-markers/settings-page-markers.component.scss"],
+  "sourcesContent": [".tooltipc {\r\n    position:relative; /* making the .tooltip span a container for the tooltip text */\r\n    border-bottom:1px dashed #000; /* little indicater to indicate it's hoverable */\r\n  }\r\n\r\n\r\n  .tooltipc:before {\r\n    content: attr(data-text); /* here's the magic */\r\n    position:absolute;\r\n    \r\n    /* vertically center */\r\n    top:50%;\r\n    transform:translateY(-50%);\r\n    \r\n    /* move to right */\r\n    left:100%;\r\n    margin-left:15px; /* and add a small left margin */\r\n    \r\n    /* basic styles */\r\n    width:200px;\r\n    padding:10px;\r\n    border-radius:10px;\r\n    background:#000;\r\n    color: #fff ;\r\n    text-align:center;\r\n  \r\n    display:none; /* hide by default */\r\n    transition: all 0.3s ease-in-out;\r\n    \r\n  }\r\n\r\n  .tooltipc:hover:before {\r\n    display:block;\r\n  }"],
+  "mappings": "AAAA,CAAA,SACI,SAAA,SACA,cAAA,IAAA,OAAA,KAIF,CANF,QAME,QACE,QAAA,KAAA,WACA,SAAA,SAGA,IAAA,IACA,UAAA,WAAA,MAGA,KAAA,KACA,YAAA,KAGA,MAAA,MAnBJ,QAoBI,KApBJ,cAqBI,KACA,WAAA,KACA,MAAA,KACA,WAAA,OAEA,QAAA,KACA,WAAA,IAAA,IAAA,YAIF,CA/BF,QA+BE,MAAA,QACE,QAAA",
   "names": []
 }
