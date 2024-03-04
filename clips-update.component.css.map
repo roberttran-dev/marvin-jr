@@ -1,7 +1,7 @@
 {
   "version": 3,
   "sources": ["src/app/pages/clips-update/clips-update.component.scss"],
-  "sourcesContent": ["optgroup[label]{\r\n    color: rgb(237, 237, 237);\r\n}\r\n\r\n.color-cell {\r\n    height: 10px; /* You can adjust this height as needed */\r\n    width: 10px; /* You can adjust this height as needed */\r\n    border: 1px solid #000;\r\n    padding: 10px;\r\n  }\r\n\r\n  .color-cell.selected {\r\n    border: 1.5px solid white;\r\n  }"],
-  "mappings": "AAAA,QAAA,CAAA,OACI,MAAA,QAGJ,CAAA,WACI,OAAA,KACA,MAAA,KACA,OAAA,IAAA,MAAA,KAPJ,QAQI,KAGF,CAPF,UAOE,CAAA,SACE,OAAA,MAAA,MAAA",
+  "sourcesContent": ["optgroup[label] {\r\n  color: rgb(237, 237, 237);\r\n}\r\n\r\n.color-cell {\r\n  height: 10px;\r\n  width: 20px;\r\n  min-width: 20px;\r\n  max-width: 20px;\r\n  border: 1px solid #000;\r\n  padding: 10px;\r\n}\r\n\r\n.color-cell.selected {\r\n  border: 1.5px solid white;\r\n}\r\n\r\n.fixed-dropdown .dropdown-menu {\r\n  min-width: 230px;\r\n  max-width: 230px;\r\n}\r\n\r\n#colorPickerBtn {\r\n  background-color: transparent;\r\n  height: fit-content;\r\n  width: fit-content;\r\n  border: 0;\r\n}"],
+  "mappings": "AAAA,QAAA,CAAA,OACE,MAAA,QAGF,CAAA,WACE,OAAA,KACA,MAAA,KACA,UAAA,KACA,UAAA,KACA,OAAA,IAAA,MAAA,KATF,QAUE,KAGF,CATA,UASA,CAAA,SACE,OAAA,MAAA,MAAA,MAGF,CAAA,eAAA,CAAA,cACE,UAAA,MACA,UAAA,MAGF,CAAA,eACE,iBAAA,YACA,OAAA,YACA,MAAA,YACA,OAAA",
   "names": []
 }
