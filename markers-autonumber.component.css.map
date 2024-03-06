@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["src/app/pages/markers-page/markers-autonumber/markers-autonumber.component.scss"],
-  "sourcesContent": [".notice {\r\n    font-family: Inter;\r\n    font-size: 12px;\r\n    font-style: italic;\r\n    font-weight: 300;\r\n    line-height: 15px;\r\n    letter-spacing: 0em;\r\n    text-align: center;\r\n    color: #6E6E6E;\r\n}"],
-  "mappings": "AAAA,CAAA,OACI,YAAA,MACA,UAAA,KACA,WAAA,OACA,YAAA,IACA,YAAA,KACA,eAAA,IACA,WAAA,OACA,MAAA",
-  "names": []
-}
