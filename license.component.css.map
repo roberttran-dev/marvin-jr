@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/pages/license/license.component.scss"],
+  "sourcesContent": ["#checkButtonContainer {\r\n    margin-top: 75px;\r\n}\r\n\r\n.header-container {\r\n    width: 100%;\r\n    height: 100%;\r\n  }"],
+  "mappings": "AAAA,CAAA,qBACI,WAAA,KAGJ,CAAA,iBACI,MAAA,KACA,OAAA",
+  "names": []
+}

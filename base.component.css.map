@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/theme.scss", "src/app/pages/base/base.component.scss"],
+  "sourcesContent": ["$background: #222222;\r\n$primary: #C39258;\r\n$default: #6E6E6E;\r\n\r\n.primary {\r\n    color: $primary;\r\n}", "@import \"../../theme.scss\";\r\n\r\nul.primary {\r\n  padding-left: 40px;\r\n}\r\n\r\nul.primary>li {\r\n  color: $primary;\r\n  font-style: italic;\r\n}\r\n\r\n.btn-margin {\r\n  margin-top: 35px;\r\n}"],
+  "mappings": "AAIA,CAAA,QACI,MAJM,QCCV,EAAA,CDEA,QCDE,aAAA,KAGF,EAAA,CDFA,OCEA,CAAA,GACE,MDNQ,QCOR,WAAA,OAGF,CAAA,WACE,WAAA",
+  "names": []
+}

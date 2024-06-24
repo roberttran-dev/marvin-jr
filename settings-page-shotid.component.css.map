@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/pages/settings-page/settings-page-shotid/settings-page-shotid.component.scss"],
+  "sourcesContent": [".breakdown-elements-container div {\r\n    margin-top: 0px !important;\r\n}\r\n\r\n.breakdown-element {\r\n    padding-left: 0px;\r\n    padding-right: 50px;\r\n}"],
+  "mappings": "AAAA,CAAA,6BAAA,IACI,WAAA,YAGJ,CAAA,kBACI,aAAA,EACA,cAAA",
+  "names": []
+}
