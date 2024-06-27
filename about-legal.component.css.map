@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["src/app/pages/about/about-legal/about-legal.component.scss"],
-  "sourcesContent": ["p {\r\n    color: #c1c1c1;\r\n    font-weight: 300;\r\n}\r\n\r\n.head {\r\n    color: #ffc178;\r\n}\r\n\r\n.content {\r\n    margin-top: -15px;\r\n}"],
-  "mappings": "AAAA,EACI,MAAA,QACA,YAAA,IAGJ,CAAA,KACI,MAAA,QAGJ,CAAA,QACI,WAAA",
-  "names": []
-}

@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["src/app/pages/about/about.component.scss"],
-  "sourcesContent": [".custom-nav-link.active {\r\n  background-color: #3F3F3F;\r\n  color: white;\r\n  transition: border-color 0.3s ease-in-out;\r\n}\r\n\r\n.custom-nav-link {\r\n  background-color: #131313;\r\n  color: #6E6E6E;\r\n  font-weight: 500;\r\n  height: 41px;\r\n  text-align: center;\r\n\r\n  &:not(.active):hover {\r\n    background-color: #4f4f4f;\r\n    color: black;\r\n  }\r\n}\r\n\r\n.dropdown-container {\r\n  margin: 0 -20px -20px -20px;\r\n  background-color: #131313 !important;\r\n}\r\n\r\n#settingButton {\r\n  margin-top: 9px;\r\n  background-color: transparent;\r\n  height: fit-content;\r\n  width: fit-content;\r\n}\r\n\r\n#settingButton svg path {\r\n  transition: fill 0.3s ease;\r\n}\r\n\r\n#settingButton:hover svg path {\r\n  fill: #ffb255;\r\n}\r\n\r\n\r\n.header-container {\r\n  position: relative;\r\n  width: 250px;\r\n  height: 60px;\r\n}\r\n\r\n.image-header {\r\n  position: absolute;\r\n  top: -28px;\r\n  right: -15px;\r\n}"],
-  "mappings": "AAAA,CAAA,eAAA,CAAA,OACE,iBAAA,QACA,MAAA,KACA,WAAA,aAAA,IAAA,YAGF,CANA,gBAOE,iBAAA,QACA,MAAA,QACA,YAAA,IACA,OAAA,KACA,WAAA,OAEA,CAbF,eAaE,KAAA,CAbF,OAaE,OACE,iBAAA,QACA,MAAA,KAIJ,CAAA,mBAnBA,OAoBE,EAAA,MAAA,MACA,iBAAA,kBAGF,CAAA,cACE,WAAA,IACA,iBAAA,YACA,OAAA,YACA,MAAA,YAGF,CAPA,cAOA,IAAA,KACE,WAAA,KAAA,IAAA,KAGF,CAXA,aAWA,OAAA,IAAA,KACE,KAAA,QAIF,CAAA,iBACE,SAAA,SACA,MAAA,MACA,OAAA,KAGF,CAAA,aACE,SAAA,SACA,IAAA,MACA,MAAA",
-  "names": []
-}
